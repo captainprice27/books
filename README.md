@@ -13,4 +13,6 @@ imp --> **https://takeuforward.org/c/c-stl-tutorial-most-frequent-used-stl-conta
 
 DRIVE link for books -->  https://drive.google.com/drive/folders/1MVLwy3iULn4OuaCkBMW-A9ybT0jmF5QK?usp=drive_link
 
-https://google.github.io/styleguide/cppguide.html#Self_contained_Headers     
+https://google.github.io/styleguide/cppguide.html#Self_contained_Headers   
+
+https://www.quora.com/What-is-the-path-starting-from-0-in-programming-to-get-very-good-at-competitive-programming?no_redirect=1     
